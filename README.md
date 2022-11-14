@@ -1,4 +1,4 @@
-# Police-sentiment-LDA-analysis
+# Police topic modeling (LDA analysis)
 
 
 
@@ -6,7 +6,7 @@
 ## About The Project
 
 
-Latent Dirichlet allocation (LDA) is a particularly popular method for fitting a topic model. It treats each document as a mixture of topics, and each topic as a mixture of words. We used this approach to analyze police sentiment based on police-related scrapped tweets
+Latent Dirichlet allocation (LDA) is a particularly popular method for fitting a topic model. It treats each document as a mixture of topics, and each topic as a mixture of words. By modeling the topics discussed in a large matrix of police-related tweets, we can begin to understand how public perceptions of the police are influenced by different events and circumstances. This is part of Dr. Ta-Johnson's research on police-citizen interactions. She is the author and owner of this script. For more info, visit https://www.vivianpta.com
 
 
 
