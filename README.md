@@ -6,7 +6,11 @@
 ## About The Project
 
 
-Latent Dirichlet allocation (LDA) is a particularly popular method for fitting a topic model. It treats each document as a mixture of topics, and each topic as a mixture of words. By modeling the topics discussed in a large matrix of police-related tweets, we can begin to understand how public perceptions of the police are influenced by different events and circumstances. This is part of the Technology, Relationships, and Language lab's research on police-citizen interactions. Dr. Ta-Johnson's is the author and owner of this script. For more info, visit https://www.vivianpta.com
+Latent Dirichlet allocation (LDA) is a particularly popular method for fitting a topic model. It treats each document as a mixture of topics, and each topic as a mixture of words. By modeling the topics discussed in a large matrix of police-related tweets, we can begin to understand how public perceptions of the police are influenced by different events and circumstances. 
+
+This is part of the Technology, Relationships, and Language lab's research on police-citizen interactions. 
+
+### Dr. Ta-Johnson is the author and owner of this script. For more info, visit https://www.vivianpta.com
 
 
 
