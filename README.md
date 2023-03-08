@@ -101,7 +101,7 @@ DF_DTMatrix <- DF_DTMatrix[, !names(DF_DTMatrix) %in% c("Filename")]
    ```
 ### Run LDA model
 
-I typically use "Gibbs" and alpha = 0.1
+Our lab typically uses "Gibbs" and alpha = 0.1
    ```sh
 lda.model <- LDA(DF_DTMatrix, k=NumberOfTopics, method="Gibbs", control = list(alpha = 0.1))
 
